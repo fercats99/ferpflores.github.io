@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Bio
+Estudio programacion, me encantan los gatos, leer, discutir, y en ocasiones escribo, asi que, eso
 
-### More Information
+### Contactame
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+https://www.facebook.com/ferpenaflores
