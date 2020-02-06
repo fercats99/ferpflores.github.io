@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 ### Bio
@@ -9,4 +10,6 @@ Estudio programacion, me encantan los gatos, leer, discutir, y en ocasiones escr
 
 ### Contactame
 
-https://www.facebook.com/ferpenaflores
+-[Facebook](https://www.facebook.com/ferpenaflores)
+
+-[Telegram](https://t.me/FerCats99)
