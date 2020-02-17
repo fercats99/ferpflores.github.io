@@ -1,0 +1,50 @@
+---
+title: Ferpflores.Github.Io
+timezone: America/Mexico_City
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: Fer PF
+description: Intentos de escritura
+avatar: https://avatars0.githubusercontent.com/u/12365536?s=460&v=4
+footer-links:
+  dribbble: 
+  email: 
+  facebook: 
+  flickr: 
+  github: ferPFlores
+  instagram: fer_cats99
+  linkedin: 
+  pinterest: 
+  rss: Feed
+  twitter: 
+  stackoverflow: 
+  youtube: 
+  googleplus: 
+disqus: fercats
+google_analytics: 
+url: https://ferpflores.github.io
+baseurl: 
+permalink: "/:title/"
+version: v1.2.0
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+sass:
+  style: expanded
+gems:
+- jekyll-sitemap
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+- CNAME
+theme: jekyll-theme-midnight
