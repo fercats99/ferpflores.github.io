@@ -1,6 +1,8 @@
 ---
 title: Post_3.txt
 date: 2020-03-29 11:29:00 -06:00
+categories:
+- escrito
 ---
 
 ## Sentir
