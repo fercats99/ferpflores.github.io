@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: ferpflores.github.io
-Token: 005f9f715e7e9ea4179dd50dbd099cd2ea3c82536c86d355fa6edac5a4ddccf4
